@@ -3,10 +3,17 @@
 Här samlar jag alla övningar ni övar på när det inte är lektion.
 
 ---
+🎮 **Frivillig startövning – SQL Murder Mystery**
 
-Starta med detta spel: https://mystery.knightlab.com/
+: https://mystery.knightlab.com/
 
-Fortsätt därefter med nedan övningar
+Kommentar: Detta är ett roligt webbläsarspel där du löser ett SQL-mordmysterium genom att skriva SQL-frågor.
+🧠 Spelet körs med en inbyggd SQLite-databas och fungerar **endast i webbläsaren**.  
+🟢 **Du behöver inte installera något** – bara öppna länken och börja skriva SQL direkt.
+
+📌 **OBS!** Detta är inte kopplat till PostgreSQL eller DVD Rental. Det är en separat övning som tränar din SQL-logik och felsökning.
+
+➡️ När du spelat klart (eller om du hoppar spelet), går du vidare till DVD Rental-databasen och de SQL-övningarna nedanför.
 
 ---
 
