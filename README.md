@@ -4,6 +4,12 @@ Här samlar jag alla övningar ni övar på när det inte är lektion.
 
 ---
 
+Starta med detta spel: https://mystery.knightlab.com/
+
+Fortsätt därefter med nedan övningar
+
+---
+
 ## 🗃️ Exempeldatabas: DVD Rental
 
 Vi använder en färdig testdatabas för PostgreSQL kallad **DVD Rental**.
@@ -32,11 +38,6 @@ SQL-övningar.md för PostgreSQL (DVD Rental): [https://gist.github.com/zocom-ch
 Tips! Använd W3Schools SQL guide för ovanstående övningar: https://www.w3schools.com/sql/
 
 -------------------------
-Starta med detta spel: https://mystery.knightlab.com/
 
-Fortsätt därefter med nedan övningar
 
-Ladda ner först: https://sqlitebrowser.org/dl/.
 
-Ladda sedan ner exempeldatabasen som behövs för nedan övningar och importera: https://www.sqlitetutorial.net/sqlite-sample-database/
----
