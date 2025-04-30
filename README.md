@@ -18,12 +18,10 @@ https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 1. Extrahera `.zip`-filen tills du har `dvdrental.tar`
 
 2. Skapa en tom databas i pgAdmin eller med kommandot:  
-```bash
-createdb dvdrental
+Terminalen: createdb dvdrental
 
 3. Importera databasen med följande kommando i terminalen:
-```bash
-pg_restore -U postgres -d dvdrental -1 dvdrental.tar
+Terminalen: pg_restore -U postgres -d dvdrental -1 dvdrental.tar
 
 Byt ut postgres mot ditt användarnamn om det är ett annat.
 
